@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShantanuD1512
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m a Web Developer
+- 🌱 I’m currently learning new things.
 
 <!---
 ShantanuD1512/ShantanuD1512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
