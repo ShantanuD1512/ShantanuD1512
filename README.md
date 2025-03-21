@@ -10,13 +10,11 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 ![ShantanuD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShantanuD1512&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** [shantanu@example.com](mailto:shantanu@example.com)
-- **LinkedIn:** [Shantanu D.](https://www.linkedin.com/in/shantanud1512)
-- **Twitter:** [@ShantanuD1512](https://twitter.com/ShantanuD1512)
+- **Email:** [deshpandeshantanu15@gmail.com](mailto:deshpandeshantanu15@gmail.com)
+- **LinkedIn:** [shantanud15](https://www.linkedin.com/in/shantanud15)
 
 ## 🌱 Currently Learning
-- Advanced React Patterns
-- Cloud Computing with AWS
+- Core JAVA
 
 ## 💬 Ask me about
 - Web Development
@@ -24,6 +22,6 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 - Open Source Contribution
 
 ## ⚡ Fun fact
-I love solving puzzles and playing chess in my free time!
+I love solving puzzles and websurfing in my free time!
 
 Feel free to explore my repositories and reach out if you have any questions or collaborations in mind. Let's build something amazing together!
