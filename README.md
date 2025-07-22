@@ -1,24 +1,34 @@
-# Hi there, I'm Shantanu Deshpande. 👋
+# Hi, I'm Shantanu Deshpande 👋
 
-Welcome to my GitHub profile! I'm a passionate developer always eager to learn and explore new technologies. Here’s a bit about me:
+Welcome to my GitHub profile!  
+I'm a passionate software developer with experience in building full-stack applications using a variety of modern technologies.
 
-## 🔧 Technologies & Tools
-- **Languages:** C, C++, Java
-- **Tools & Platforms:** VSCode, Git, IntelliJ IDEA
+---
 
-## 📫 How to reach me
-- **Email:** [deshpandeshantanu15@gmail.com](mailto:deshpandeshantanu15@gmail.com)
-- **LinkedIn:** [shantanud15](https://www.linkedin.com/in/shantanud15)
+## 🛠️ Tech Stack
 
-## 🌱 Currently Learning
-- Core JAVA
+- **Languages:** Java, JavaScript, HTML, CSS  
+- **Backend:** Spring Boot, .NET  
+- **Frontend:** React.js  
+- **Database:** MySQL  
+- **Tools & IDEs:** Eclipse, Visual Studio Code
 
-## 💬 Ask me about
-- Web Development
-- Software Engineering Best Practices
-- Open Source Contribution
+---
 
-## ⚡ Fun fact
-I love solving puzzles and websurfing in my free time!
+## About Me
 
-Feel free to explore my repositories and reach out if you have any questions or collaborations in mind. Let's build something amazing together!
+- Enthusiastic about building scalable, efficient, and user-friendly applications  
+- Always eager to learn new technologies and improve my skills  
+- Like to have a coffee ☕ with like-minded people and discuss ideas  
+- Interested in full-stack development and software architecture
+
+---
+
+Feel free to explore my repositories to see some of my work!
+
+Let's connect:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shantanudeshpande) *(You can add your LinkedIn or other social links)*
+
+---
+
+Thanks for stopping by! 😊
